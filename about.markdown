@@ -17,11 +17,9 @@ Two projects I’m particularly fond of:
 
 Programming has been both my profession and passion since elementary school, when I wrote my first lines of code on an Atari 800 XL. I graduated from a 5-year study program at the Faculty of Electrical Engineering and Computing in Zagreb, earning the title *Dipl.-Ing. in Computing*, which is equivalent to a Master of Science in Computing (*mag. ing. comp.*) currently awarded by the same faculty.
 
-I live and work in Zagreb, Croatia. 
+I live and work in Zagreb, Croatia.
 
-Best regards,
-
-Tomislav Šereg
+**Tomislav Šereg**
 
 # About this site
 
