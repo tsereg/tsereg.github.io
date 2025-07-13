@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-My name is **Tomislav Šereg**, and I live and work in Zagreb, Croatia. I’ve been professionally involved in software development for over 30 years. Currently, I work on the development of a general-purpose Laboratory Information System (LIS), where I take part in the entire development lifecycle – from analyzing user requirements to design, implementation, and support. I also manage the development and documentation processes of the company I work for.
+I’ve been professionally involved in software development for over 30 years. Currently, I work on the development of a general-purpose Laboratory Information System (LIS), where I take part in the entire development lifecycle – from analyzing user requirements to design, implementation, and support. I also manage the development and documentation processes of the company I work for.
 
 My daily work involves technologies such as **C#, C++, Visual Basic, .NET, Win32 API, SQL, and XML**, though over the years I’ve worked with a wide range of other tools and platforms depending on project needs.
 
@@ -16,6 +16,12 @@ Two projects I’m particularly fond of:
 - **A programmable communication component** that I began developing as a student, which I’ve since used to implement communication protocols for just under 200 models of medical laboratory analyzers.
 
 Programming has been both my profession and passion since elementary school, when I wrote my first lines of code on an Atari 800 XL. I graduated from a 5-year study program at the Faculty of Electrical Engineering and Computing in Zagreb, earning the title *Dipl.-Ing. in Computing*, which is equivalent to a modern Master of Science in Computing (*mag. ing. comp.*).
+
+I live and work in Zagreb, Croatia. 
+
+Best regards,
+
+Tomislav Šereg
 
 # About this site
 
