@@ -20,20 +20,79 @@
 # in the templates via {{ site.myvariable }}.
 
 title: IT objectives
-email: info@itobjectives.com
+author:
+  name: Tomislav Šereg
+  email: info@itobjectives.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   Snippets on computer science and information technology, and other musings.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tsereg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tsereg
-github_username:  tsereg
+
 markdown: GFM
 
 # Build settings
 
 theme: minima
+
 plugins:
   - jekyll-feed
+
+minima:
+  # Minima skin selection. Available skins are:
+  #   Available skins:
+  #     * classic            Default, light color scheme.
+  #     * dark               Dark variant of the classic skin.
+  #     * auto               Adaptive skin based on the default classic and dark skins.
+  #     * solarized-light    Light variant of solarized color scheme.
+  #     * solarized-dark     Dark variant of solarized color scheme.
+  #     * solarized          Adaptive skin for solarized color scheme skins.
+  skin: classic
+
+  # Specific pages for site navigation.
+  #   If you wish to link only specific pages in the site-navigation, use this and list
+  #   the `path` property (as represented via Liquid) of the pages in the order they
+  #   should be rendered.
+  
+  nav_pages:
+    - about.md
+  
+minima:
+  # Minima skin selection. Available skins are:
+  #   Available skins:
+  #     * classic            Default, light color scheme.
+  #     * dark               Dark variant of the classic skin.
+  #     * auto               Adaptive skin based on the default classic and dark skins.
+  #     * solarized-light    Light variant of solarized color scheme.
+  #     * solarized-dark     Dark variant of solarized color scheme.
+  #     * solarized          Adaptive skin for solarized color scheme skins.
+  skin: classic
+
+  # Set to `true` to show excerpts on the homepage.
+  show_excerpts: false
+
+  # Minima date format.
+  #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
+  #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
+  # date_format: "%b-%d-%Y"
+
+  # Social Media Links
+  #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
+  #   Entry keys:
+  #     * title    Tooltip rendered on hovering over icon.
+  #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+  #     * url      Full URL of social profile.
+  #social_links:
+  #  - title: Minima Theme repository at GitHub
+  #    icon: github
+  #    url: "https://github.com/jekyll/minima"
+  #  - title: Jekyll at X (formerly Twitter)
+  #    icon: x-twitter
+  #    url: "https://x.com/jekyllrb"
+
+twitter_username: tsereg
+github_username:  tsereg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
