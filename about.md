@@ -1,13 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-# About me
 ## About me
 
-I’ve been professionally involved in software development for over 30 years. Currently, I work on the maintenance of a general-purpose Laboratory Information System (LIS), where I take part in the entire development lifecycle – from analyzing user requirements to design, implementation, and support. I also manage the development and documentation processes at the company I work for.
+I’ve been involved in software development for about 30 years. Currently, I work on the maintenance of a general-purpose Laboratory Information System (LIS), where I take part in the entire development lifecycle – from analyzing user requirements to design, implementation, and support. I also manage the development and documentation processes at the company I work for.
 
 My daily work involves technologies such as **C#, C++, Visual Basic, .NET, Win32 API, SQL, and XML**, though over the years I’ve worked with a wide range of other tools and platforms depending on project needs.
 
