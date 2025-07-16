@@ -25,7 +25,7 @@ title: IT objectives
 
 author:
   name: Tomislav Šereg
-  email: info@itobjectives.com
+  email: info (at) itobjectives (dot) com
 
 description: >- # this means to ignore newlines until "baseurl:"
   Snippets on computer science and information technology, and other musings.
@@ -50,7 +50,7 @@ markdown: GFM
 #   It is best that you lock to a particular commit and update if uptream changes
 #   do not affect your site adversely.
 #remote_theme: jekyll/minima@d4d779a
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@79af56a
 
 # Minima requires the following plugins:
 plugins:
