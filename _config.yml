@@ -29,7 +29,9 @@ github_username:  tsereg
 markdown: GFM
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-feed
 
