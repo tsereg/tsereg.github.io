@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+# About me
 
 I’ve been professionally involved in software development for over 30 years. Currently, I work on the maintenance of a general-purpose Laboratory Information System (LIS), where I take part in the entire development lifecycle – from analyzing user requirements to design, implementation, and support. I also manage the development and documentation processes at the company I work for.
 
@@ -32,6 +32,5 @@ Source code for Minima at GitHub:
 Source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
 
 [jekyll-organization]: https://github.com/jekyll
