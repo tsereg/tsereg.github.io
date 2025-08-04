@@ -51,6 +51,7 @@ Run under the developer's account
 - to create the certificate in the personal store:
     - `dotnet dev-certs https`,
 - to ensure it gets created in both the personal and the trusted root stores, or to get it copied from the personal to the trusted root store:
+    - `dotnet dev-certs https`,
     - `dotnet dev-certs https --trust`,
 - to export the certificate in the personal store and its private key:
     - `dotnet dev-certs https --format pfx --export-path certname.pfx --password <password>`,
